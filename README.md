@@ -25,7 +25,7 @@ I work mostly on backend systems, cloud platforms, and scalable architectures �
 
 **Backend:** Java · Quarkus · Spring Boot · Node.js · NestJS  
 **Frontend:** React · NextJS · TypeScript  
-**DevOps:** Docker · GitHub Actions · CI/CD · Kubernetes
+**DevOps:** Docker · GitHub Actions · CI/CD · Kubernetes  
 **Databases:** PostgreSQL · MongoDB · BigQuery · SQL Server  
 **Auth & Infra:** Keycloak · OAuth2 · OpenFGA · GCP · OData · LDAP
 
