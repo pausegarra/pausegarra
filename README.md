@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Pau Segarra
 
-<!--
-**pausegarra/pausegarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer**  
+🔧 Java · Quarkus · Spring Boot · Node.js · React · Docker · SQL/NoSQL
 
-Here are some ideas to get you started:
+[🌐 pausegarra.es](https://pausegarra.es) · [💼 LinkedIn](https://www.linkedin.com/in/pausegarra)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About me
+
+I'm a curious engineer who enjoys building things and keeping them simple.  
+I work mostly on backend systems, cloud platforms, and scalable architectures — but I never run from a frontend challenge either.
+
+- 🔭 Currently working as a **Senior Software Engineer** at **Next Digital**
+- 🌱 Always learning new tools, currently diving deeper into **OpenFGA** and **GCP security**
+- 👯 Open to collaborate on backend-heavy or infra-related projects
+- 💬 Ask me about: **clean architecture, auth flows, scalable APIs, DevOps**, or why simplicity matters
+- 📫 Reach me at: [pausegarra.es](https://pausegarra.es) or [LinkedIn](https://www.linkedin.com/in/pausegarra)
+- ⚡ Fun fact: I automated parts of my Russian learning workflow — structured, versioned, and API-driven 🇷🇺
+
+---
+
+### 🛠 Tech Stack
+
+**Backend:** Java · Quarkus · Spring Boot · Node.js · NestJS  
+**Frontend:** React · NextJS · TypeScript  
+**DevOps:** Docker · GitHub Actions · CI/CD  
+**Databases:** PostgreSQL · MongoDB · BigQuery · SQL Server  
+**Auth & Infra:** Keycloak · OAuth2 · OpenFGA · GCP · OData · LDAP
+
+---
+
+### 🌍 Languages
+
+- Spanish 🇪🇸: Native  
+- English 🇬🇧: Professional  
+- Russian 🇷🇺: Elementary  
+- Italian 🇮🇹: Limited Working
